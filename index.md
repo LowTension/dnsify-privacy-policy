@@ -1,6 +1,4 @@
-## DNS Vault
-
-**Privacy Policy**
+## DNS Vault — Privacy Policy
 
 ### Data Collection
 
