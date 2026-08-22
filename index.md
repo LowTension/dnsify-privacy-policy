@@ -1,16 +1,20 @@
-## Data Collection
+## DNS Vault
 
-### Nothing.
+**Privacy Policy**
 
-**DNS Vault** does not collect any user data.
+### Data Collection
+
+**Nothing.**
+
+DNS Vault does not collect any user data.
 
 Your data belongs to you and you alone.
 
-**DNS Vault** does not, will not, and has never collected your personal or sensitive data.
+DNS Vault does not, will not, and has never collected your personal or sensitive data.
 
 ---
 
-## VPN Connection
+### VPN Connection
 
 DNS Vault creates a **local VPN interface** to redirect your device's DNS traffic locally and apply your selected DNS server addresses.
 
